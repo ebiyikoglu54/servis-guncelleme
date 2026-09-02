@@ -1,7 +1,7 @@
 {
-  "surum": "2.8.2",
+  "surum": "2.8.4",
   "kritik": false,
-  "yenilikler": "Lisans suresi (yillik/6 aylik) destegi eklendi. Suresi dolan lisanslar uyari verir.",
-  "indirme_linki": "https://github.com/ebiyikoglu54/servis-guncelleme/releases/download/v2.8.2/ServisYonetim.zip",
+  "yenilikler": "Ayarlar bolumune 'Lisans Anahtarini Degistir' eklendi. Yeni modul satin alan musteri, yeni anahtari buradan girip programi yeniden baslatabilir. HW ID de burada gorunur ve kopyalanabilir.",
+  "indirme_linki": "https://github.com/ebiyikoglu54/servis-guncelleme/releases/download/v2.8.4/ServisYonetim.zip",
   "hedef_lisanslar": ["5C44-EED5-9A0B-9542"]
 }
