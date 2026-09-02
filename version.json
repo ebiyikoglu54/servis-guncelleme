@@ -1,7 +1,7 @@
 {
-  "surum": "2.7.8",
+  "surum": "2.7.9",
   "kritik": false,
-  "yenilikler": "Arac Muayenesi sekmesi gizlendi.\nHaftalik otomatik yedek eklendi (her acilisya 7 gun gectiyse otomatik yedek alir).\nIs emri numarasi sistemi iyilestirildi.",
-  "indirme_linki": "https://github.com/ebiyikoglu54/servis-guncelleme/releases/download/v2.7.8/ServisYonetim.exe",
+  "yenilikler": "Guncelleme sistemi tamamen yenilendi - artik hatasiz calisir. Haftalik otomatik yedek, arac muayenesi gizleme ve is emri no iyilestirmeleri dahil.",
+  "indirme_linki": "https://github.com/ebiyikoglu54/servis-guncelleme/releases/download/v2.7.9/ServisYonetim.zip",
   "hedef_lisanslar": ["5C44-EED5-9A0B-9542"]
 }
