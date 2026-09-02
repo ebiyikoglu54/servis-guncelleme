@@ -1,7 +1,7 @@
 {
-  "surum": "2.7.4",
+  "surum": "2.7.6",
   "kritik": false,
-  "yenilikler": "Firma adi duzeltmesi: Ayarlardan girdiginiz firma adi artik sol ustte gorunur.",
-  "indirme_linki": "https://github.com/ebiyikoglu54/servis-guncelleme/releases/download/v2.7.4/ServisYonetim.exe",
+  "yenilikler": "Otomatik guncelleme sistemi testi. Ayarlar ekraninda surum yaninda yesil 'Guncel' isareti eklendi.",
+  "indirme_linki": "https://github.com/ebiyikoglu54/servis-guncelleme/releases/download/v2.7.6/ServisYonetim.exe",
   "hedef_lisanslar": ["5C44-EED5-9A0B-9542"]
 }
