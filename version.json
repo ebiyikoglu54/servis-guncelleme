@@ -1,7 +1,7 @@
 {
-  "surum": "2.8.7",
+  "surum": "2.8.8",
   "kritik": false,
-  "yenilikler": "Gunluk otomatik yedek (her acilista). Merkezi mail arsivine otomatik yedek gonderimi. Ayarlarda 'Yedekleme Durumu' bolumu: son yedek tarihi, mail durumu ve hata takibi.",
-  "indirme_linki": "https://github.com/ebiyikoglu54/servis-guncelleme/releases/download/v2.8.7/ServisYonetim.zip",
+  "yenilikler": "Acilista otomatik guncelleme kontrolu duzeltildi. Gunluk yedek, merkezi mail arsivi ve yedekleme durumu takibi dahil.",
+  "indirme_linki": "https://github.com/ebiyikoglu54/servis-guncelleme/releases/download/v2.8.8/ServisYonetim.zip",
   "hedef_lisanslar": ["5501-BCC4-BF92-C7C1"]
 }
