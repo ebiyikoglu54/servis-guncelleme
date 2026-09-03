@@ -1,7 +1,7 @@
 {
-  "surum": "2.8.8",
+  "surum": "2.9.0",
   "kritik": false,
-  "yenilikler": "Acilista otomatik guncelleme kontrolu duzeltildi. Gunluk yedek, merkezi mail arsivi ve yedekleme durumu takibi dahil.",
-  "indirme_linki": "https://github.com/ebiyikoglu54/servis-guncelleme/releases/download/v2.8.8/ServisYonetim.zip",
+  "yenilikler": "Merkezi mail yedek sistemi. Gunluk otomatik yedek ve yedekleme durumu takibi. Acilista otomatik guncelleme kontrolu.",
+  "indirme_linki": "https://github.com/ebiyikoglu54/servis-guncelleme/releases/download/v2.9.0/ServisYonetim.zip",
   "hedef_lisanslar": ["5501-BCC4-BF92-C7C1"]
 }
