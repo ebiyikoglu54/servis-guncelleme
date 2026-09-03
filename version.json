@@ -1,7 +1,7 @@
 {
   "surum": "2.9.3",
   "kritik": false,
-  "yenilikler": "Mail yedeklerinde dosya adi duzeltildi (artik 'noname' yerine firma adi gorunuyor). Kucuk yedeklerde boyut KB olarak gosteriliyor.",
+  "yenilikler": "Musteri listesi artik en son eklenen ustte olacak sekilde siralaniyor.\nMail yedeklerinde dosya adi duzeltildi (noname sorunu).\nKucuk yedeklerde boyut KB olarak gosteriliyor.",
   "indirme_linki": "https://github.com/ebiyikoglu54/servis-guncelleme/releases/download/v2.9.3/ServisYonetim.zip",
   "hedef_lisanslar": ["5501-BCC4-BF92-C7C1"]
 }
